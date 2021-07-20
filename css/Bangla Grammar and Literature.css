@@ -3,11 +3,12 @@
     padding: 0px;
     background-color: aqua;
     font-family: sans-serif;
-    width:100vw;
     border: none;
 
 }
-
+body{
+    height: 100%;
+}
 
 li{
     list-style: none;
