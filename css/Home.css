@@ -1,7 +1,9 @@
 *{
     background-color: aqua;
-    width:100vw;
 
+}
+body{
+    height: 100%;
 }
 li{
     list-style: none;
